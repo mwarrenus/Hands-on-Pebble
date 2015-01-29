@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mwarren_us@yahoo.com",
+    "longName": "Hands-on",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pug.png",
+                "name": "IMAGE_PUG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Hands-on",
+    "uuid": "24085879-c0b0-487f-83f8-c7dbdd11af40",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
